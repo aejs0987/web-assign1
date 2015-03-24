@@ -10,3 +10,18 @@ article#question{
   color:rgb(255, 41, 226);
   border-bottom:3px solid;
 }
+
+#question h2{
+  font-size:1em;
+  color:rgb(229, 150, 0);
+  border-bottom:1px solid;
+}
+
+.school{
+  color:rgb(229, 150, 0);
+}
+
+#rightfloat { 
+  float:right;
+  
+}
