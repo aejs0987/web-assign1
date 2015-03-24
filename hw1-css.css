@@ -5,6 +5,13 @@ article#course{
     border-radius:1em;
 }
 
+#course img{
+  width:80%;
+  padding:0.5em;
+  background-color:rgb(60, 194, 130);
+  box-sizing:border-box;
+}
+
 #course h1{
   font-size:2em;
   color:rgb(255, 41, 226);
@@ -20,9 +27,12 @@ article#course{
   font: 1em/1.5 serif;
 }
 .course-description p{
-  font: 1em/1.5 serif;
+  font: 1em/1.5 cursive;
 }
 
+.course-schedule {
+  font: 1em/1.5 fantasy;
+}
 
 
 
